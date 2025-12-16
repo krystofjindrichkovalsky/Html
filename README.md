@@ -7,7 +7,6 @@
   <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="">
 
-
   <link rel="manifest" href="site.webmanifest">
   <meta name="theme-color" content="#fafafa">
 
